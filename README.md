@@ -5,3 +5,6 @@ Referentes Banking-as-a-Service:
 
 Python Books:
 Python para Finanzas. Curso Práctico. Carlos Mario Ramírez Gil
+
+Customer Segmentation Using Credit Card data:
+https://towardsdatascience.com/mastering-customer-segmentation-using-credit-card-transaction-data-dc39a8465766
